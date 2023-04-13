@@ -1,0 +1,6 @@
+git init
+git add commands 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vinaychamkur/STAGGING-BRANCH.git
+git push -u origin main
